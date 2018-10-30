@@ -1,3 +1,2 @@
 # colorGame
-Game It Is !!
-hmm
+My First WebApp!!
